@@ -1,7 +1,7 @@
 ## Java-Rhythm-Game-Project
 
 #### 개발 언어 : JAVA
-#### 개발 환경 : eclipse
+#### 개발 환경, tool : eclipse, github
 
 ##### 자바 Swing package + GUI Programming을 활용한 리듬게임
 
