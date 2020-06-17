@@ -1,5 +1,5 @@
 # Java-Rhythm-Game-Project
-## 자바 Swing package + GUI Programming을 활용한 리듬게임
+### 자바 Swing package + GUI Programming을 활용한 리듬게임
 
 # 초기 화면
 <img width="960" alt="2020-06-17 (1)" src="https://user-images.githubusercontent.com/50096346/84855923-4c533980-b0a0-11ea-83b3-f0a69db0dc02.png">
