@@ -1,6 +1,9 @@
 # Java-Rhythm-Game-Project
 ##### 자바 Swing package + GUI Programming을 활용한 리듬게임
 
+### 개발 언어 : JAVA
+### 개발 환경 : eclipse
+
 # 메인 화면
 <img width="700" alt="2020-06-17 (1)" src="https://user-images.githubusercontent.com/50096346/84855923-4c533980-b0a0-11ea-83b3-f0a69db0dc02.png">
 
